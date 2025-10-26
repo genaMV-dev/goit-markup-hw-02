@@ -55,7 +55,8 @@ body{
 /* #endregion header */
 
 
-/* #region main */
+/* #region main */   
+
 .hero{
     background-color: #2e2f42;
 }
@@ -115,3 +116,18 @@ body{
     background-color: #FFFFFF;
 }
 /* #endregion main */
+
+
+/* #region footer */
+
+.footer{
+    background-color: #2e2f42;
+}
+
+.footer-text{
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
+}
+
+/* #endregion footer */
